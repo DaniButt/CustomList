@@ -10,6 +10,7 @@ public class Place {
     public int mZipCode;
     public String mNameOfImage;
     public String mPopup;
+    public String Popup;
 
     public Place(String startNameofPlace, int startZipCode, String startNameOfImage, String startPopup) {
         this.mNameofPlace = startNameofPlace;
